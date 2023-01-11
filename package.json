@@ -19,5 +19,9 @@
   "homepage": "https://github.com/avi96-rc/namste-react-chapter1#readme",
   "devDependencies": {
     "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
